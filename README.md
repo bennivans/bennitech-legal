@@ -1,1 +1,13 @@
 # bennitech-legal
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Datenlöschung – Bennitech</title>
+</head>
+<body>
+  <h1>Datenlöschung</h1>
+  <p>Diese App speichert keine personenbezogenen Daten, daher ist eine Datenlöschung in der App nicht erforderlich.</p>
+  <p>Solltest du dennoch ein Anliegen haben, sende bitte eine E-Mail an: <strong>sipatabenni@gmail.com</strong></p>
+</body>
+</html>
