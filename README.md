@@ -1,4 +1,3 @@
-# bennitech-legal
 <!DOCTYPE html>
 <html lang="de">
 <head>
